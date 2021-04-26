@@ -1,2 +1,2 @@
 # awesome-npx
-npm packages that are great match with npx
+npm packages that are a great match with npx
