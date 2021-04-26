@@ -1,5 +1,10 @@
 # awesome-npx
+
 npm packages that are a great match with npx
+
+---
+
+- [doge: Such package](https://github.com/seidtgeist/doge)
 
 ---
 
